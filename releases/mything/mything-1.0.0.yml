@@ -1,0 +1,13 @@
+name: mything
+version: 1.0.0
+commit_hash: e415eaa
+uncommitted_changes: false
+jobs:
+- name: mything
+  version: b87ea2bb82bac8733efbd8f84fc5dba694961bf5
+  fingerprint: b87ea2bb82bac8733efbd8f84fc5dba694961bf5
+  sha1: 7c11116e1b2bc4599531ea2fa3928f01816404e6
+license:
+  version: ac77a509d8b020148f8ce7b3ecce592f89c29c87
+  fingerprint: ac77a509d8b020148f8ce7b3ecce592f89c29c87
+  sha1: 09e8c9c495621927dc072e0f7437a354f5da2415

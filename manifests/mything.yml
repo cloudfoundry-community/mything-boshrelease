@@ -29,6 +29,6 @@ update:
 
 releases:
 - name: mything
-  version: latest # TODO: update after first final release
-  # url:            TODO: update after first final release
-  # sha1:           TODO: update after first final release
+  version: 1.0.0
+  url: https://github.com/cloudfoundry-community/mything-boshrelease/releases/download/v1.0.0/mything-1.0.0.tgz
+  sha1: a541e013320fce7cc47832adb616a0ed8334abb3
